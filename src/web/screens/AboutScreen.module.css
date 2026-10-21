@@ -1,0 +1,39 @@
+.section {
+  margin-bottom: 24px;
+}
+
+.section h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.section p,
+.section ol {
+  margin: 0 0 8px;
+}
+
+.notice {
+  padding: 12px 14px;
+  border-radius: var(--radius);
+  background: var(--warn-bg);
+  color: var(--warn-text);
+}
+
+.credits {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 13px;
+  color: var(--muted);
+  display: grid;
+  gap: 6px;
+}
+
+.credits a {
+  color: inherit;
+}
+
+.version {
+  font-size: 13px;
+  color: var(--muted);
+}

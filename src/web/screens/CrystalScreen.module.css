@@ -1,0 +1,144 @@
+.hero {
+  position: relative;
+  margin: calc(-1 * (var(--safe-top) + 16px)) -16px 16px;
+}
+
+.heroImage {
+  width: 100%;
+  height: min(45dvh, 420px);
+  object-fit: cover;
+  background: var(--surface-2);
+}
+
+.back {
+  position: absolute;
+  top: calc(var(--safe-top) + 10px);
+  left: 12px;
+  width: var(--tap);
+  height: var(--tap);
+  border-radius: 50%;
+  border: 0;
+  background: rgb(0 0 0 / 45%);
+  color: #fff;
+  font-size: 22px;
+  cursor: pointer;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.titleRow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.aliases {
+  color: var(--muted);
+  margin: 4px 0 0;
+  font-size: 15px;
+}
+
+.favorite {
+  flex: none;
+  width: var(--tap);
+  height: var(--tap);
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  font-size: 22px;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.favorite[aria-pressed='true'] {
+  color: #d64561;
+  border-color: #d64561;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 14px 0;
+}
+
+.intentions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.intention {
+  min-height: 36px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+
+.section p {
+  margin: 0;
+}
+
+.care {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin-bottom: 20px;
+}
+
+.care h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.careList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.yes {
+  color: var(--ok);
+  font-weight: 600;
+}
+
+.no {
+  color: var(--bad);
+  font-weight: 600;
+}
+
+.note {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: var(--warn-bg);
+  color: var(--warn-text);
+  font-size: 15px;
+}
+
+.credit {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.credit a {
+  color: inherit;
+}
