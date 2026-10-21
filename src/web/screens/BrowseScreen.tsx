@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import { useCrystals } from '../../hooks/useCrystals.ts'
 import { useBrowseState } from '../../hooks/browseState.tsx'
 import { filterCrystals } from '../../core/filters.ts'
@@ -9,6 +9,7 @@ import { CrystalGrid } from '../components/CrystalGrid.tsx'
 import { FilterChips } from '../components/FilterChips.tsx'
 import { FilterSheet } from '../components/FilterSheet.tsx'
 import { FACET_LABELS, facetOptions } from '../facets.ts'
+import { saveBrowseScroll, takeBrowseScroll } from '../scrollMemory.ts'
 import styles from './BrowseScreen.module.css'
 
 export function BrowseScreen() {
@@ -21,6 +22,17 @@ export function BrowseScreen() {
     () => searchCrystals(filterCrystals(crystals, filters), query),
     [crystals, filters, query],
   )
+
+  // Restore the grid position on return; save it when leaving.
+  const searchKey = JSON.stringify([query, filters])
+  const searchKeyRef = useRef(searchKey)
+  searchKeyRef.current = searchKey
+  useLayoutEffect(() => {
+    if (loading) return
+    const y = takeBrowseScroll(searchKeyRef.current)
+    if (y !== null) window.scrollTo(0, y)
+  }, [loading])
+  useEffect(() => () => saveBrowseScroll(searchKeyRef.current, window.scrollY), [])
 
   const resetAll = () => {
     setQuery('')

@@ -740,7 +740,7 @@
         "moonlight",
         "sound"
       ],
-      "notes": "Fragile and fades in sunlight."
+      "notes": "Fragile and fades in sunlight. Contains strontium; do not use in elixirs."
     },
     "image": {
       "file": "celestite.webp",
@@ -977,7 +977,8 @@
         "running water",
         "sound",
         "smoke"
-      ]
+      ],
+      "notes": "Spheres and clear points can focus sunlight and start a fire; don't leave them in a sunny window."
     },
     "image": {
       "file": "clear-quartz.webp",
@@ -1166,7 +1167,7 @@
         "smoke",
         "selenite"
       ],
-      "notes": "Soft and cleaves easily; protect from knocks and scratches."
+      "notes": "Soft and cleaves easily; protect from knocks. Contains fluorine; do not use in elixirs or drinking water."
     },
     "image": {
       "file": "fluorite.webp",
@@ -1785,7 +1786,7 @@
         "sound",
         "selenite"
       ],
-      "notes": "Soft and flaky; avoid water."
+      "notes": "Soft and flaky; avoid water. Contains lithium and aluminium; do not use in elixirs."
     },
     "image": {
       "file": "lepidolite.webp",
@@ -2158,7 +2159,7 @@
         "sound",
         "smoke"
       ],
-      "notes": "Contains sulfur and can tarnish when wet. Do not use in elixirs."
+      "notes": "Contains sulfur and can tarnish when wet. Do not use in elixirs or drinking water."
     },
     "image": {
       "file": "pyrite.webp",
@@ -2527,7 +2528,7 @@
         "running water",
         "earth"
       ],
-      "notes": "Sheds black carbon dust. Only use verified, high-grade shungite for water infusions."
+      "notes": "Sheds black carbon dust; rinse and dry after handling. Do not drink water it has soaked in."
     },
     "image": {
       "file": "shungite.webp",
@@ -2896,7 +2897,7 @@
         "sound",
         "smoke"
       ],
-      "notes": "Porous; avoid water, oils, and lotions."
+      "notes": "Porous; avoid water, oils, and lotions. Contains copper; do not use in elixirs."
     },
     "image": {
       "file": "turquoise.webp",

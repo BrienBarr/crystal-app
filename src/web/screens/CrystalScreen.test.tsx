@@ -41,3 +41,9 @@ test('favoriting a crystal adds it to Favorites', async () => {
   const list = await screen.findByRole('list', { name: 'Crystals' })
   expect(within(list).getByRole('link', { name: 'Amethyst' })).toBeInTheDocument()
 })
+
+test('opens scrolled to the top', async () => {
+  renderApp('/crystal/amethyst')
+  await screen.findByRole('heading', { level: 1, name: 'Amethyst' })
+  expect(window.scrollTo).toHaveBeenCalledWith(0, 0)
+})

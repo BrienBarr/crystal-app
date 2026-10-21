@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import { useCrystal } from '../../hooks/useCrystals.ts'
 import { useFavorites } from '../../hooks/favorites.tsx'
@@ -25,6 +26,10 @@ export function CrystalScreen() {
   const { searchIntention } = useBrowseState()
   const navigate = useNavigate()
   const location = useLocation()
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [slug])
 
   if (loading) return <main className="page" />
   if (!crystal) return <NotFound message="Crystal not found" />

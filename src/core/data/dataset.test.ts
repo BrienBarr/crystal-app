@@ -34,3 +34,26 @@ test('every intention in the vocabulary is used by at least one crystal', () => 
   const used = new Set(data.flatMap((c) => c.intentions))
   expect(INTENTIONS.filter((i) => !used.has(i))).toEqual([])
 })
+
+test('no care note endorses making drinkable infusions or elixirs', () => {
+  const endorsing = data.filter(
+    (c) =>
+      c.care.notes &&
+      /infusion|elixir/i.test(c.care.notes) &&
+      !/\b(never|do not|don't|not)\b/i.test(c.care.notes),
+  )
+  expect(endorsing.map((c) => c.slug)).toEqual([])
+})
+
+test('commonly cited toxic stones warn against elixirs', () => {
+  const toxic = ['malachite', 'azurite', 'chrysocolla', 'pyrite', 'fluorite', 'lepidolite', 'turquoise', 'celestite', 'shungite']
+  const missing = toxic.filter((slug) => {
+    const notes = data.find((c) => c.slug === slug)?.care.notes ?? ''
+    return !/elixir|drink/i.test(notes)
+  })
+  expect(missing).toEqual([])
+})
+
+test('clear quartz warns that it can focus sunlight', () => {
+  expect(data.find((c) => c.slug === 'clear-quartz')?.care.notes).toMatch(/fire/i)
+})
