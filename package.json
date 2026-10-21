@@ -10,7 +10,8 @@
     "test": "vitest run",
     "typecheck": "tsc -b",
     "images": "tsx scripts/fetch-images.ts",
-    "icons": "tsx scripts/make-icons.ts"
+    "icons": "tsx scripts/make-icons.ts",
+    "deploy": "npm test && npm run typecheck && npx vercel@65 --prod"
   },
   "dependencies": {
     "react": "^18.3.1",
