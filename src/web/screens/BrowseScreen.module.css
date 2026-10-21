@@ -1,0 +1,55 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--bg);
+  padding: calc(var(--safe-top) + 12px) 16px 10px;
+  margin: calc(-1 * (var(--safe-top) + 16px)) -16px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.search {
+  width: 100%;
+  min-height: var(--tap);
+  padding: 0 14px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 16px; /* 16px stops iOS zooming on focus */
+  appearance: none;
+}
+
+.search:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+
+.empty {
+  text-align: center;
+  padding: 48px 16px;
+  color: var(--muted);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.button {
+  min-height: var(--tap);
+  padding: 0 18px;
+  border-radius: 12px;
+  border: 0;
+  background: var(--accent);
+  color: var(--accent-text);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.status {
+  color: var(--muted);
+  text-align: center;
+  padding: 48px 16px;
+}
