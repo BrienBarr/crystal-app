@@ -1,0 +1,2954 @@
+[
+  {
+    "slug": "amazonite",
+    "name": "Amazonite",
+    "aliases": [
+      "Amazon Stone"
+    ],
+    "colors": [
+      "teal",
+      "green"
+    ],
+    "chakras": [
+      "throat",
+      "heart"
+    ],
+    "zodiac": [
+      "virgo"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "calm",
+      "truth",
+      "communication",
+      "harmony",
+      "stress relief"
+    ],
+    "metaphysical": "Amazonite is a soothing stone of truth and harmony. It is believed to help one speak openly and set healthy boundaries.",
+    "healing": "Traditionally used to calm the nervous system and ease worry. It is said to balance emotions and soften mood swings.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke",
+        "selenite"
+      ]
+    },
+    "image": {
+      "file": "amazonite.webp",
+      "credit": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazonite-8819.jpg"
+    }
+  },
+  {
+    "slug": "amethyst",
+    "name": "Amethyst",
+    "aliases": [
+      "Purple Quartz"
+    ],
+    "colors": [
+      "purple"
+    ],
+    "chakras": [
+      "third-eye",
+      "crown"
+    ],
+    "zodiac": [
+      "pisces",
+      "virgo",
+      "aquarius",
+      "capricorn"
+    ],
+    "elements": [
+      "air",
+      "water"
+    ],
+    "intentions": [
+      "calm",
+      "sleep",
+      "intuition",
+      "protection",
+      "spiritual growth",
+      "stress relief",
+      "meditation"
+    ],
+    "metaphysical": "Amethyst is known as a stone of spiritual protection and higher awareness. It is said to quiet mental chatter and open the third eye, making it a favorite companion for meditation and dreamwork.",
+    "healing": "Traditionally used to soothe anxiety, ease insomnia, and calm an overactive mind. Many keep it by the bed to encourage restful sleep and gentle dreams.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke",
+        "selenite"
+      ]
+    },
+    "image": {
+      "file": "amethyst.webp",
+      "credit": "JJ Harrison (https://jjharrison.com.au/)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amethyst._Magaliesburg,_South_Africa.jpg"
+    }
+  },
+  {
+    "slug": "ametrine",
+    "name": "Ametrine",
+    "aliases": [
+      "Trystine"
+    ],
+    "colors": [
+      "purple",
+      "yellow"
+    ],
+    "chakras": [
+      "solar-plexus",
+      "crown"
+    ],
+    "zodiac": [
+      "libra"
+    ],
+    "elements": [
+      "air",
+      "fire"
+    ],
+    "intentions": [
+      "balance",
+      "clarity",
+      "creativity",
+      "transformation"
+    ],
+    "metaphysical": "Ametrine unites amethyst and citrine in one crystal. It is believed to balance spirit and will, connecting higher awareness with action.",
+    "healing": "Traditionally used to relieve tension and encourage clarity. It is said to ease depression and boost creativity.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "ametrine.webp",
+      "credit": "Steven HAuse",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ametrine_In_Palm.png"
+    }
+  },
+  {
+    "slug": "angelite",
+    "name": "Angelite",
+    "aliases": [
+      "Blue Anhydrite"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "chakras": [
+      "throat",
+      "crown"
+    ],
+    "zodiac": [
+      "aquarius"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "calm",
+      "communication",
+      "spiritual growth",
+      "compassion"
+    ],
+    "metaphysical": "Angelite is believed to facilitate contact with angelic guides. It encourages peace, awareness, and compassionate communication.",
+    "healing": "Traditionally used to calm fear and anger. It is said to soothe the throat and support gentle self-expression.",
+    "care": {
+      "hardness": 3.5,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "selenite"
+      ],
+      "notes": "Anhydrite slowly turns to gypsum with moisture; keep dry."
+    },
+    "image": {
+      "file": "angelite.webp",
+      "credit": "Lech Darski",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angelit,_anhydryt,_celestyt_-_Lima,_Peru..jpg"
+    }
+  },
+  {
+    "slug": "apophyllite",
+    "name": "Apophyllite",
+    "aliases": [],
+    "colors": [
+      "clear",
+      "white",
+      "green"
+    ],
+    "chakras": [
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "gemini",
+      "libra"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "meditation",
+      "spiritual growth",
+      "psychic abilities",
+      "clarity"
+    ],
+    "metaphysical": "Apophyllite is a high-vibration stone that is believed to connect the physical and spiritual worlds. It supports meditation and spiritual vision.",
+    "healing": "Traditionally used to release stress and mental blocks. It is said to encourage clear thinking and introspection.",
+    "care": {
+      "hardness": 4.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "sound"
+      ],
+      "notes": "Delicate crystal points; handle gently."
+    },
+    "image": {
+      "file": "apophyllite.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apophyllite_Finlande2.jpg"
+    }
+  },
+  {
+    "slug": "aquamarine",
+    "name": "Aquamarine",
+    "aliases": [],
+    "colors": [
+      "blue"
+    ],
+    "chakras": [
+      "throat",
+      "heart"
+    ],
+    "zodiac": [
+      "pisces",
+      "aries",
+      "gemini"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "calm",
+      "courage",
+      "communication",
+      "stress relief",
+      "clarity"
+    ],
+    "metaphysical": "Aquamarine carries the energy of the sea and was a sailors' talisman for safe passage. It is believed to bring courage and clear, calm communication.",
+    "healing": "Traditionally used to soothe stress and reduce fear. It is said to support the throat and calm the nervous system.",
+    "care": {
+      "hardness": 7.5,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "aquamarine.webp",
+      "credit": "Gunnar Ries Amphibol",
+      "license": "CC BY-SA 2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aquamarine_P1000141.JPG"
+    }
+  },
+  {
+    "slug": "azurite",
+    "name": "Azurite",
+    "aliases": [],
+    "colors": [
+      "blue"
+    ],
+    "chakras": [
+      "third-eye"
+    ],
+    "zodiac": [
+      "sagittarius"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "intuition",
+      "psychic abilities",
+      "wisdom",
+      "clarity"
+    ],
+    "metaphysical": "Azurite is called the stone of heaven. It is believed to awaken psychic ability and inner wisdom.",
+    "healing": "Traditionally used to clear mental fog and stress. It is said to aid concentration and insight.",
+    "care": {
+      "hardness": 3.5,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound"
+      ],
+      "notes": "Contains copper and is toxic. Never use in elixirs."
+    },
+    "image": {
+      "file": "azurite.webp",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azurite_-_New_Nevada_Lode,_La_Sal,_Utah,_USA.jpg"
+    }
+  },
+  {
+    "slug": "black-obsidian",
+    "name": "Black Obsidian",
+    "aliases": [
+      "Obsidian",
+      "Volcanic Glass"
+    ],
+    "colors": [
+      "black"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "scorpio",
+      "sagittarius"
+    ],
+    "elements": [
+      "fire",
+      "earth"
+    ],
+    "intentions": [
+      "protection",
+      "grounding",
+      "truth",
+      "transformation",
+      "emotional healing"
+    ],
+    "metaphysical": "Black Obsidian is volcanic glass formed from rapidly cooled lava. It is believed to be a powerful protector that reflects hidden truths and helps release what no longer serves.",
+    "healing": "Traditionally used to draw out emotional blockages and old wounds so they can heal. It is said to ground scattered energy and dispel negativity.",
+    "care": {
+      "hardness": 5.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound",
+        "earth"
+      ],
+      "notes": "Raw pieces can have glass-sharp edges."
+    },
+    "image": {
+      "file": "black-obsidian.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_obsidian_with_streaks_of_mahogany_obsidian.jpg"
+    }
+  },
+  {
+    "slug": "black-onyx",
+    "name": "Black Onyx",
+    "aliases": [
+      "Onyx"
+    ],
+    "colors": [
+      "black"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "leo",
+      "capricorn"
+    ],
+    "elements": [
+      "earth",
+      "fire"
+    ],
+    "intentions": [
+      "strength",
+      "protection",
+      "grounding",
+      "focus",
+      "patience"
+    ],
+    "metaphysical": "Black Onyx is a stone of strength and self-mastery. It is believed to absorb negative energy and help one stay grounded and disciplined.",
+    "healing": "Traditionally used to support stamina and resilience under stress. It is said to steady emotions and calm fears.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "black-onyx.webp",
+      "credit": "Simon Eugster --Simon 14:41, 11 April 2006 (UTC)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onyx.jpg"
+    }
+  },
+  {
+    "slug": "black-tourmaline",
+    "name": "Black Tourmaline",
+    "aliases": [
+      "Schorl"
+    ],
+    "colors": [
+      "black"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "capricorn",
+      "scorpio"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "protection",
+      "grounding",
+      "purification",
+      "anxiety",
+      "stress relief"
+    ],
+    "metaphysical": "Black Tourmaline is one of the most popular protection stones. It is believed to form a shield against negative energy and to ground the spirit firmly into the earth.",
+    "healing": "Traditionally used to relieve anxiety and nervous tension and to clear heavy emotions. Many place it near electronics or doorways as an energetic buffer.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "black-tourmaline.webp",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schorl_-_Galil%C3%A9ia,_Minas_Gerais,_Brazil.jpg"
+    }
+  },
+  {
+    "slug": "bloodstone",
+    "name": "Bloodstone",
+    "aliases": [
+      "Heliotrope"
+    ],
+    "colors": [
+      "green",
+      "red"
+    ],
+    "chakras": [
+      "root",
+      "heart"
+    ],
+    "zodiac": [
+      "aries",
+      "pisces",
+      "libra"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "courage",
+      "strength",
+      "healing",
+      "detox",
+      "energy"
+    ],
+    "metaphysical": "Bloodstone is an ancient stone of courage, once carried by warriors. It is believed to ground and protect while encouraging selflessness.",
+    "healing": "Traditionally used to purify the blood and boost the immune system. It is said to restore energy and vitality.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "bloodstone.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloodstone_5.jpg"
+    }
+  },
+  {
+    "slug": "blue-kyanite",
+    "name": "Blue Kyanite",
+    "aliases": [
+      "Kyanite"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "chakras": [
+      "throat",
+      "third-eye"
+    ],
+    "zodiac": [
+      "aries",
+      "taurus",
+      "libra"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "communication",
+      "meditation",
+      "truth",
+      "balance",
+      "dreams"
+    ],
+    "metaphysical": "Blue Kyanite is a stone of alignment that is believed to open all chakras at once. It encourages clear communication and connection to spirit guides.",
+    "healing": "Traditionally used to calm the mind before meditation and encourage dream recall. It is said to help speak one's truth with ease.",
+    "care": {
+      "hardness": 5.5,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound"
+      ],
+      "notes": "Brittle bladed crystals; handle gently. Said to never need cleansing."
+    },
+    "image": {
+      "file": "blue-kyanite.webp",
+      "credit": "Daderot",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyanite,_blue-grey_prisms,_Carrowtrasna,_Donegal_-_Natural_History_Museum,_London_-_DSC05266.jpg"
+    }
+  },
+  {
+    "slug": "blue-lace-agate",
+    "name": "Blue Lace Agate",
+    "aliases": [],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "chakras": [
+      "throat"
+    ],
+    "zodiac": [
+      "pisces",
+      "gemini"
+    ],
+    "elements": [
+      "water",
+      "air"
+    ],
+    "intentions": [
+      "calm",
+      "communication",
+      "stress relief",
+      "truth",
+      "patience"
+    ],
+    "metaphysical": "Blue Lace Agate is a gentle stone of calm communication. It is believed to help express thoughts and feelings with ease.",
+    "healing": "Traditionally used to soothe the throat and calm nerves. It is said to cool anger and frustration.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "blue-lace-agate.webp",
+      "credit": "I2Overcome",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_lace_agate_(tumbled).png"
+    }
+  },
+  {
+    "slug": "blue-sapphire",
+    "name": "Blue Sapphire",
+    "aliases": [
+      "Sapphire"
+    ],
+    "colors": [
+      "blue"
+    ],
+    "chakras": [
+      "throat",
+      "third-eye"
+    ],
+    "zodiac": [
+      "virgo",
+      "libra",
+      "sagittarius"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "wisdom",
+      "truth",
+      "focus",
+      "clarity",
+      "spiritual growth"
+    ],
+    "metaphysical": "Blue Sapphire is a stone of wisdom and royalty. It is believed to focus the mind and attract spiritual insight.",
+    "healing": "Traditionally used to calm the mind and relieve mental tension. It is said to support clear thinking and discipline.",
+    "care": {
+      "hardness": 9,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "blue-sapphire.webp",
+      "credit": "PumpkinSky - Editor User:Gisbert K",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornflower_blue_Yogo_Sapphire_2R.jpg"
+    }
+  },
+  {
+    "slug": "carnelian",
+    "name": "Carnelian",
+    "aliases": [
+      "Cornelian"
+    ],
+    "colors": [
+      "orange",
+      "red"
+    ],
+    "chakras": [
+      "sacral",
+      "root"
+    ],
+    "zodiac": [
+      "leo",
+      "virgo",
+      "taurus"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "creativity",
+      "motivation",
+      "courage",
+      "energy",
+      "confidence"
+    ],
+    "metaphysical": "Carnelian is a vibrant stone of action and creative fire. It is believed to stir the sacral chakra, sparking passion, ambition, and the courage to begin.",
+    "healing": "Traditionally used to restore vitality and motivation and to overcome procrastination. It is said to warm the body and boost circulation and stamina.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "smoke"
+      ]
+    },
+    "image": {
+      "file": "carnelian.webp",
+      "credit": "Hyperdeath",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carnelian_sard_(mineral_specimen).jpg"
+    }
+  },
+  {
+    "slug": "celestite",
+    "name": "Celestite",
+    "aliases": [
+      "Celestine"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "chakras": [
+      "throat",
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "gemini"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "calm",
+      "dreams",
+      "spiritual growth",
+      "sleep",
+      "harmony"
+    ],
+    "metaphysical": "Celestite is a heavenly stone associated with angelic realms. It is believed to bring serenity and divine connection.",
+    "healing": "Traditionally used to ease stress and promote restful sleep and dream recall. It is said to calm tension.",
+    "care": {
+      "hardness": 3.5,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound"
+      ],
+      "notes": "Fragile and fades in sunlight."
+    },
+    "image": {
+      "file": "celestite.webp",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Celestine_-_Sakoany_deposit,_Katsepy,_Mitsinjo,_Boeny,_Madagascar.jpg"
+    }
+  },
+  {
+    "slug": "charoite",
+    "name": "Charoite",
+    "aliases": [],
+    "colors": [
+      "purple"
+    ],
+    "chakras": [
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "sagittarius",
+      "scorpio"
+    ],
+    "elements": [
+      "spirit"
+    ],
+    "intentions": [
+      "transformation",
+      "spiritual growth",
+      "change",
+      "dreams"
+    ],
+    "metaphysical": "Charoite is a stone of transformation found only in Siberia. It is believed to help one overcome fear and embrace spiritual change.",
+    "healing": "Traditionally used to ease stress and promote restful sleep. It is said to help release old patterns.",
+    "care": {
+      "hardness": 5.5,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke"
+      ]
+    },
+    "image": {
+      "file": "charoite.webp",
+      "credit": "Géry PARENT",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charoite,_aegirine,_tinaksite_2.jpg"
+    }
+  },
+  {
+    "slug": "chrysocolla",
+    "name": "Chrysocolla",
+    "aliases": [],
+    "colors": [
+      "blue",
+      "green"
+    ],
+    "chakras": [
+      "throat",
+      "heart"
+    ],
+    "zodiac": [
+      "gemini",
+      "virgo",
+      "taurus"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "communication",
+      "calm",
+      "compassion",
+      "emotional healing"
+    ],
+    "metaphysical": "Chrysocolla is a stone of feminine wisdom and gentle communication. It is believed to encourage speaking from the heart with compassion.",
+    "healing": "Traditionally used to soothe emotional tension and calm the mind. It is said to ease guilt and fear.",
+    "care": {
+      "hardness": 3,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke"
+      ],
+      "notes": "Contains copper; do not use in elixirs."
+    },
+    "image": {
+      "file": "chrysocolla.webp",
+      "credit": "Lloyd.james0615",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chrysocolla.jpg"
+    }
+  },
+  {
+    "slug": "chrysoprase",
+    "name": "Chrysoprase",
+    "aliases": [],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "libra",
+      "taurus",
+      "gemini"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "joy",
+      "forgiveness",
+      "love",
+      "healing"
+    ],
+    "metaphysical": "Chrysoprase is a stone of joy and happiness. It is believed to encourage love and forgiveness.",
+    "healing": "Traditionally used to calm anxiety and support recovery. It is said to bring a sense of wellbeing.",
+    "care": {
+      "hardness": 6.5,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ],
+      "notes": "Color can fade in strong sunlight."
+    },
+    "image": {
+      "file": "chrysoprase.webp",
+      "credit": "James St. John",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chrysoprase_(Australia)_2.jpg"
+    }
+  },
+  {
+    "slug": "citrine",
+    "name": "Citrine",
+    "aliases": [
+      "Merchant's Stone",
+      "Success Stone"
+    ],
+    "colors": [
+      "yellow",
+      "orange"
+    ],
+    "chakras": [
+      "solar-plexus",
+      "sacral"
+    ],
+    "zodiac": [
+      "aries",
+      "gemini",
+      "leo",
+      "libra"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "abundance",
+      "success",
+      "confidence",
+      "joy",
+      "manifestation",
+      "motivation",
+      "creativity"
+    ],
+    "metaphysical": "Citrine carries the warmth of the sun and is known as the merchant's stone of prosperity. It is believed to attract abundance and success while radiating optimism and creative energy.",
+    "healing": "Traditionally used to lift low mood and boost self-esteem and motivation. It is said to energize the solar plexus and support digestion and personal willpower.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke",
+        "selenite"
+      ]
+    },
+    "image": {
+      "file": "citrine.webp",
+      "credit": "Jennifer A Hogan",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz_Citrine_Crystals_in_Their_Natural_Form.jpg"
+    }
+  },
+  {
+    "slug": "clear-quartz",
+    "name": "Clear Quartz",
+    "aliases": [
+      "Rock Crystal",
+      "Master Healer"
+    ],
+    "colors": [
+      "clear",
+      "white"
+    ],
+    "chakras": [
+      "crown"
+    ],
+    "zodiac": [
+      "aries",
+      "leo",
+      "capricorn"
+    ],
+    "elements": [
+      "spirit"
+    ],
+    "intentions": [
+      "clarity",
+      "energy",
+      "healing",
+      "manifestation",
+      "focus",
+      "meditation"
+    ],
+    "metaphysical": "Clear Quartz is called the master healer and is believed to amplify energy, intention, and the effect of other stones. It is used to bring clarity of mind and to hold and program intentions.",
+    "healing": "Traditionally used as an all-purpose healing stone, said to restore balance across every chakra. Practitioners use it to boost energy and support focus and concentration.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound",
+        "smoke"
+      ]
+    },
+    "image": {
+      "file": "clear-quartz.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz_oisan.jpg"
+    }
+  },
+  {
+    "slug": "dalmatian-jasper",
+    "name": "Dalmatian Jasper",
+    "aliases": [
+      "Dalmatian Stone"
+    ],
+    "colors": [
+      "white",
+      "black"
+    ],
+    "chakras": [
+      "root",
+      "sacral"
+    ],
+    "zodiac": [
+      "gemini",
+      "virgo"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "joy",
+      "grounding",
+      "friendship",
+      "patience",
+      "motivation"
+    ],
+    "metaphysical": "Dalmatian Jasper is a playful, spotted stone of joy and loyalty. It is believed to bring a sense of fun and connect one with the inner child.",
+    "healing": "Traditionally used to lift mood and ease overthinking. It is said to support loyalty, friendship, and patient growth.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "dalmatian-jasper.webp",
+      "credit": "Chiselwit",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dalmatian_stone,_polished.JPG"
+    }
+  },
+  {
+    "slug": "emerald",
+    "name": "Emerald",
+    "aliases": [],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "taurus",
+      "gemini",
+      "cancer"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "love",
+      "compassion",
+      "harmony",
+      "wisdom",
+      "abundance"
+    ],
+    "metaphysical": "Emerald is the stone of successful love and has been treasured since ancient Egypt. It is believed to bring loyalty, unity, and domestic bliss.",
+    "healing": "Traditionally used to heal the heart and soothe the eyes. It is said to promote harmony and recovery.",
+    "care": {
+      "hardness": 7.5,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "selenite"
+      ],
+      "notes": "Most emeralds are oil-treated; avoid soaking, heat, and ultrasonic cleaners."
+    },
+    "image": {
+      "file": "emerald.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Muzo)_Emerald_crystal_in_its_matrix.jpg"
+    }
+  },
+  {
+    "slug": "fire-agate",
+    "name": "Fire Agate",
+    "aliases": [],
+    "colors": [
+      "brown",
+      "red",
+      "orange"
+    ],
+    "chakras": [
+      "root",
+      "sacral"
+    ],
+    "zodiac": [
+      "aries",
+      "leo"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "courage",
+      "energy",
+      "protection",
+      "motivation"
+    ],
+    "metaphysical": "Fire Agate is a stone of courage and protection that glows with iridescent fire. It is believed to ward off fear and ill intent.",
+    "healing": "Traditionally used to boost vitality and libido. It is said to dispel fear and encourage action.",
+    "care": {
+      "hardness": 6.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "fire-agate.webp",
+      "credit": "Robert M. Lavinsky",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agate-180670.jpg"
+    }
+  },
+  {
+    "slug": "fluorite",
+    "name": "Fluorite",
+    "aliases": [
+      "Rainbow Fluorite"
+    ],
+    "colors": [
+      "purple",
+      "green",
+      "blue",
+      "clear"
+    ],
+    "chakras": [
+      "third-eye",
+      "heart"
+    ],
+    "zodiac": [
+      "pisces",
+      "capricorn"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "focus",
+      "clarity",
+      "balance",
+      "wisdom"
+    ],
+    "metaphysical": "Fluorite is called the genius stone for its ability to organize thought. It is believed to absorb mental clutter and bring order to chaos.",
+    "healing": "Traditionally used to improve concentration and decision-making. It is said to stabilize the mind and support learning and study.",
+    "care": {
+      "hardness": 4,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke",
+        "selenite"
+      ],
+      "notes": "Soft and cleaves easily; protect from knocks and scratches."
+    },
+    "image": {
+      "file": "fluorite.webp",
+      "credit": "Giovanni Dall'Orto",
+      "license": "CC BY-SA 2.5 it",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:9104_-_Milano_-_Museo_storia_naturale_-_Fluorite_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg"
+    }
+  },
+  {
+    "slug": "garnet",
+    "name": "Garnet",
+    "aliases": [
+      "Red Garnet",
+      "Almandine"
+    ],
+    "colors": [
+      "red"
+    ],
+    "chakras": [
+      "root",
+      "heart"
+    ],
+    "zodiac": [
+      "aquarius",
+      "capricorn",
+      "virgo"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "energy",
+      "love",
+      "strength",
+      "courage",
+      "motivation"
+    ],
+    "metaphysical": "Garnet is a stone of passion, devotion, and revitalization. It is believed to ignite the life force and inspire love and commitment.",
+    "healing": "Traditionally used to boost energy and stamina and support circulation. It is said to restore courage in difficult times.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "garnet.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlmandinInde.jpg"
+    }
+  },
+  {
+    "slug": "golden-healer-quartz",
+    "name": "Golden Healer Quartz",
+    "aliases": [
+      "Golden Healer"
+    ],
+    "colors": [
+      "yellow",
+      "gold"
+    ],
+    "chakras": [
+      "solar-plexus",
+      "crown"
+    ],
+    "zodiac": [
+      "leo"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "healing",
+      "energy",
+      "spiritual growth",
+      "manifestation"
+    ],
+    "metaphysical": "Golden Healer is quartz coated in golden iron. It is believed to carry a master healing energy for the whole body.",
+    "healing": "Traditionally used to restore energy and support recovery. It is said to align all chakras.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "golden-healer-quartz.webp",
+      "credit": "Corie Mattar",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz_with_Limonite_-_Butte_County,_California,_USA.jpg"
+    }
+  },
+  {
+    "slug": "green-aventurine",
+    "name": "Green Aventurine",
+    "aliases": [
+      "Aventurine",
+      "Stone of Opportunity"
+    ],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "taurus",
+      "virgo"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "luck",
+      "abundance",
+      "success",
+      "healing",
+      "harmony"
+    ],
+    "metaphysical": "Green Aventurine is known as the stone of opportunity and is considered one of the luckiest crystals. It is believed to attract prosperity and open the heart to new possibilities.",
+    "healing": "Traditionally used to soothe emotions and support heart health. It is said to calm anger and irritation and encourage a sense of well-being.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "green-aventurine.webp",
+      "credit": "Darla Sondrol",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz,_aventurine_(GeoDIL_number_-_2517).jpg"
+    }
+  },
+  {
+    "slug": "hematite",
+    "name": "Hematite",
+    "aliases": [],
+    "colors": [
+      "silver",
+      "gray",
+      "black"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "aries",
+      "aquarius"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "grounding",
+      "protection",
+      "focus",
+      "strength",
+      "balance"
+    ],
+    "metaphysical": "Hematite is a heavy, metallic stone strongly associated with grounding. It is believed to anchor scattered energy and absorb negativity from the environment.",
+    "healing": "Traditionally used to restore focus and emotional balance when overwhelmed. It is said to support the blood and circulation.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "sound",
+        "earth"
+      ],
+      "notes": "Can rust if left wet."
+    },
+    "image": {
+      "file": "hematite.webp",
+      "credit": "Pacific Museum of Earth from Canada",
+      "license": "CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hematite_(Kidney_Ore)_(48522453911).jpg"
+    }
+  },
+  {
+    "slug": "herkimer-diamond",
+    "name": "Herkimer Diamond",
+    "aliases": [
+      "Herkimer Quartz"
+    ],
+    "colors": [
+      "clear"
+    ],
+    "chakras": [
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "sagittarius"
+    ],
+    "elements": [
+      "spirit",
+      "air"
+    ],
+    "intentions": [
+      "clarity",
+      "dreams",
+      "energy",
+      "psychic abilities"
+    ],
+    "metaphysical": "Herkimer Diamonds are double-terminated quartz from New York. They are believed to amplify energy and spiritual vision.",
+    "healing": "Traditionally used to boost energy and dream recall. It is said to clear mental blocks.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "herkimer-diamond.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz_(%22Herkimer_Diamond%22)_(near_Herkimer,_New_York_State,_USA)_16.jpg"
+    }
+  },
+  {
+    "slug": "howlite",
+    "name": "Howlite",
+    "aliases": [],
+    "colors": [
+      "white",
+      "gray"
+    ],
+    "chakras": [
+      "crown"
+    ],
+    "zodiac": [
+      "gemini"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "calm",
+      "sleep",
+      "patience",
+      "stress relief",
+      "anxiety"
+    ],
+    "metaphysical": "Howlite is a deeply calming stone that is believed to quiet an overactive mind. It encourages patience and emotional self-expression.",
+    "healing": "Traditionally used to ease insomnia and anxiety. Many place it under the pillow to slow racing thoughts.",
+    "care": {
+      "hardness": 3.5,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke"
+      ],
+      "notes": "Often dyed to imitate turquoise."
+    },
+    "image": {
+      "file": "howlite.webp",
+      "credit": "Maatpublishing",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WhiteHowlite.jpg"
+    }
+  },
+  {
+    "slug": "iolite",
+    "name": "Iolite",
+    "aliases": [
+      "Water Sapphire",
+      "Cordierite"
+    ],
+    "colors": [
+      "violet",
+      "blue"
+    ],
+    "chakras": [
+      "third-eye",
+      "throat"
+    ],
+    "zodiac": [
+      "libra",
+      "sagittarius",
+      "taurus"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "intuition",
+      "psychic abilities",
+      "dreams",
+      "clarity"
+    ],
+    "metaphysical": "Iolite is known as the vision stone and was used by Viking navigators. It is believed to awaken inner vision and intuition.",
+    "healing": "Traditionally used to support clear thinking and reduce confusion. It is said to aid dreamwork and intuition.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "iolite.webp",
+      "credit": "Parent Géry",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cordi%C3%A9rite_var._iolite_6.jpg"
+    }
+  },
+  {
+    "slug": "jade",
+    "name": "Jade",
+    "aliases": [
+      "Nephrite",
+      "Jadeite"
+    ],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "taurus",
+      "pisces",
+      "aries"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "luck",
+      "abundance",
+      "harmony",
+      "wisdom",
+      "healing"
+    ],
+    "metaphysical": "Jade has been treasured for millennia, especially in China, as a stone of luck, purity, and wisdom. It is believed to attract good fortune and long life.",
+    "healing": "Traditionally used to soothe the mind and bring harmony to the body. It is said to support the kidneys and the body's natural cleansing.",
+    "care": {
+      "hardness": 6.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "jade.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nephrite_jade_(Pounamu_Ultramafics,_Pounamu_Ultramafic_Belt,_South_Island,_New_Zealand)_1_(24069093653).jpg"
+    }
+  },
+  {
+    "slug": "kunzite",
+    "name": "Kunzite",
+    "aliases": [],
+    "colors": [
+      "pink",
+      "lilac"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "taurus",
+      "leo",
+      "scorpio"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "love",
+      "joy",
+      "emotional healing",
+      "grief",
+      "compassion"
+    ],
+    "metaphysical": "Kunzite is a stone of divine love and emotional openness. It is believed to dissolve emotional walls and invite joy.",
+    "healing": "Traditionally used to ease grief and heartache. It is said to calm anxiety and lift the spirit.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ],
+      "notes": "Fades quickly in sunlight."
+    },
+    "image": {
+      "file": "kunzite.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunzite_Nouristan.jpg"
+    }
+  },
+  {
+    "slug": "labradorite",
+    "name": "Labradorite",
+    "aliases": [
+      "Spectrolite"
+    ],
+    "colors": [
+      "gray",
+      "blue",
+      "green",
+      "gold"
+    ],
+    "chakras": [
+      "third-eye",
+      "throat",
+      "crown"
+    ],
+    "zodiac": [
+      "leo",
+      "scorpio",
+      "sagittarius"
+    ],
+    "elements": [
+      "water",
+      "air"
+    ],
+    "intentions": [
+      "intuition",
+      "transformation",
+      "protection",
+      "psychic abilities",
+      "change"
+    ],
+    "metaphysical": "Labradorite is known as a stone of magic and transformation, flashing hidden color when light catches it. It is believed to awaken intuition and psychic gifts and to shield the aura during change.",
+    "healing": "Traditionally used to ease anxiety during transitions and to restore energy after emotional drain. It is said to strengthen faith in oneself and in the path ahead.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke",
+        "selenite"
+      ]
+    },
+    "image": {
+      "file": "labradorite.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Labardoritebresil.jpg"
+    }
+  },
+  {
+    "slug": "lapis-lazuli",
+    "name": "Lapis Lazuli",
+    "aliases": [
+      "Lapis"
+    ],
+    "colors": [
+      "blue",
+      "gold"
+    ],
+    "chakras": [
+      "throat",
+      "third-eye"
+    ],
+    "zodiac": [
+      "sagittarius",
+      "libra",
+      "taurus"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "truth",
+      "wisdom",
+      "communication",
+      "intuition",
+      "psychic abilities"
+    ],
+    "metaphysical": "Lapis Lazuli was prized by ancient Egyptian royalty as a stone of wisdom and truth. It is believed to awaken the third eye and encourage honest, courageous self-expression.",
+    "healing": "Traditionally used to relieve stress and bring deep inner peace. It is said to support the throat and help with speaking one's truth.",
+    "care": {
+      "hardness": 5.5,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke",
+        "selenite"
+      ],
+      "notes": "Often contains pyrite and calcite; avoid soaking."
+    },
+    "image": {
+      "file": "lapis-lazuli.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lazurite.jpg"
+    }
+  },
+  {
+    "slug": "larimar",
+    "name": "Larimar",
+    "aliases": [
+      "Dolphin Stone"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "chakras": [
+      "throat",
+      "heart"
+    ],
+    "zodiac": [
+      "leo",
+      "pisces"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "calm",
+      "communication",
+      "stress relief",
+      "harmony"
+    ],
+    "metaphysical": "Larimar is found only in the Dominican Republic and carries the calm of the Caribbean sea. It is believed to bring peace and gentle communication.",
+    "healing": "Traditionally used to ease stress and emotional tension. It is said to cool anger and soothe the throat.",
+    "care": {
+      "hardness": 5,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "selenite"
+      ],
+      "notes": "Fades in sunlight; keep out of direct sun."
+    },
+    "image": {
+      "file": "larimar.webp",
+      "credit": "No machine-readable author provided. Vassil assumed (based on copyright claims).",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Larimar.jpg"
+    }
+  },
+  {
+    "slug": "lepidolite",
+    "name": "Lepidolite",
+    "aliases": [],
+    "colors": [
+      "purple",
+      "lilac"
+    ],
+    "chakras": [
+      "heart",
+      "third-eye",
+      "crown"
+    ],
+    "zodiac": [
+      "libra"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "anxiety",
+      "calm",
+      "sleep",
+      "stress relief",
+      "change",
+      "balance"
+    ],
+    "metaphysical": "Lepidolite is a stone of transition and emotional balance. It naturally contains lithium and is believed to bring calm during change.",
+    "healing": "Traditionally used to soothe anxiety, stress, and sleep troubles. It is said to stabilize mood swings.",
+    "care": {
+      "hardness": 3,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "selenite"
+      ],
+      "notes": "Soft and flaky; avoid water."
+    },
+    "image": {
+      "file": "lepidolite.webp",
+      "credit": "Zbynek Burival",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lepidolite_(trilithionite)_from_Ro%C5%BEn%C3%A1,_Czech_Republic.jpg"
+    }
+  },
+  {
+    "slug": "malachite",
+    "name": "Malachite",
+    "aliases": [],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart",
+      "solar-plexus"
+    ],
+    "zodiac": [
+      "capricorn",
+      "scorpio"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "transformation",
+      "protection",
+      "change",
+      "emotional healing"
+    ],
+    "metaphysical": "Malachite is a powerful stone of transformation with bold green bands. It is believed to absorb negative energy and push one toward positive change and emotional risk-taking.",
+    "healing": "Traditionally used to break unwanted patterns and release old emotional pain. It is said to protect against negativity and support deep heart healing.",
+    "care": {
+      "hardness": 4,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke"
+      ],
+      "notes": "Contains copper and is toxic. Never use in elixirs or bathwater, avoid inhaling dust, and wash hands after handling raw pieces."
+    },
+    "image": {
+      "file": "malachite.webp",
+      "credit": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malachite,_Zaire.jpg"
+    }
+  },
+  {
+    "slug": "moonstone",
+    "name": "Moonstone",
+    "aliases": [
+      "Rainbow Moonstone"
+    ],
+    "colors": [
+      "white",
+      "peach",
+      "gray",
+      "rainbow"
+    ],
+    "chakras": [
+      "sacral",
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "cancer",
+      "libra",
+      "scorpio"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "intuition",
+      "change",
+      "balance",
+      "emotional healing",
+      "dreams"
+    ],
+    "metaphysical": "Moonstone is a stone of new beginnings linked to the cycles of the moon. It is believed to enhance intuition, feminine energy, and emotional insight.",
+    "healing": "Traditionally used to balance emotions and hormonal cycles and to soothe emotional instability. It is said to encourage restful sleep and lucid dreams.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "selenite"
+      ]
+    },
+    "image": {
+      "file": "moonstone.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AdulaireSuisse2.jpg"
+    }
+  },
+  {
+    "slug": "morganite",
+    "name": "Morganite",
+    "aliases": [
+      "Pink Beryl"
+    ],
+    "colors": [
+      "pink",
+      "peach"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "libra",
+      "taurus"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "love",
+      "compassion",
+      "emotional healing",
+      "self-love",
+      "joy"
+    ],
+    "metaphysical": "Morganite is a stone of divine love and compassion. It is believed to open the heart and invite love into one's life.",
+    "healing": "Traditionally used to ease stress and heal emotional wounds. It is said to bring a sense of joy and lightness.",
+    "care": {
+      "hardness": 7.5,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "morganite.webp",
+      "credit": "Eric Polk",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beryl_var_morganite_NHMLA.png"
+    }
+  },
+  {
+    "slug": "moss-agate",
+    "name": "Moss Agate",
+    "aliases": [],
+    "colors": [
+      "green",
+      "clear"
+    ],
+    "chakras": [
+      "heart",
+      "root"
+    ],
+    "zodiac": [
+      "virgo",
+      "gemini"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "abundance",
+      "grounding",
+      "balance",
+      "friendship",
+      "healing"
+    ],
+    "metaphysical": "Moss Agate is the gardener's stone, connected to nature and growth. It is believed to attract abundance and new beginnings.",
+    "healing": "Traditionally used to restore emotional balance and calm. It is said to support recovery and patience.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "moss-agate.webp",
+      "credit": "W.carter",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Four_moss_agate_cabochons.jpg"
+    }
+  },
+  {
+    "slug": "opal",
+    "name": "Opal",
+    "aliases": [
+      "Precious Opal"
+    ],
+    "colors": [
+      "white",
+      "rainbow"
+    ],
+    "chakras": [
+      "crown",
+      "sacral"
+    ],
+    "zodiac": [
+      "libra",
+      "cancer",
+      "scorpio"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "creativity",
+      "joy",
+      "intuition",
+      "love"
+    ],
+    "metaphysical": "Opal is a stone of inspiration that flashes with every color. It is believed to amplify emotions and spark creativity.",
+    "healing": "Traditionally used to encourage emotional expression and joy. It is said to support self-worth.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound"
+      ],
+      "notes": "Contains water; avoid heat, soaking, and very dry storage."
+    },
+    "image": {
+      "file": "opal.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydrophane_opal_(precious_opal).jpg"
+    }
+  },
+  {
+    "slug": "peridot",
+    "name": "Peridot",
+    "aliases": [
+      "Olivine",
+      "Chrysolite"
+    ],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart",
+      "solar-plexus"
+    ],
+    "zodiac": [
+      "leo",
+      "virgo",
+      "sagittarius"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "abundance",
+      "joy",
+      "healing",
+      "forgiveness",
+      "detox"
+    ],
+    "metaphysical": "Peridot is a radiant stone of light and abundance, formed deep within the earth. It is believed to cleanse the heart and attract prosperity.",
+    "healing": "Traditionally used to release jealousy and resentment and to support detoxification. It is said to strengthen digestion and well-being.",
+    "care": {
+      "hardness": 6.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "peridot.webp",
+      "credit": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peridot_crystal_(51742300233).jpg"
+    }
+  },
+  {
+    "slug": "prehnite",
+    "name": "Prehnite",
+    "aliases": [],
+    "colors": [
+      "green"
+    ],
+    "chakras": [
+      "heart",
+      "solar-plexus"
+    ],
+    "zodiac": [
+      "libra",
+      "virgo"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "calm",
+      "intuition",
+      "healing",
+      "patience",
+      "harmony"
+    ],
+    "metaphysical": "Prehnite is called the stone of unconditional love and is believed to heal the healer. It enhances intuition and inner knowing.",
+    "healing": "Traditionally used to calm anxiety and support patience. It is said to bring peace and harmony to the environment.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "prehnite.webp",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prehnite_-_Southbury,_Connecticut,_USA.jpg"
+    }
+  },
+  {
+    "slug": "pyrite",
+    "name": "Pyrite",
+    "aliases": [
+      "Fool's Gold"
+    ],
+    "colors": [
+      "gold"
+    ],
+    "chakras": [
+      "solar-plexus"
+    ],
+    "zodiac": [
+      "leo"
+    ],
+    "elements": [
+      "fire",
+      "earth"
+    ],
+    "intentions": [
+      "abundance",
+      "protection",
+      "confidence",
+      "success",
+      "manifestation"
+    ],
+    "metaphysical": "Pyrite, known as fool's gold, is a stone of wealth and willpower. It is believed to attract abundance and shield against negative energy.",
+    "healing": "Traditionally used to boost confidence and fight fatigue. It is said to support vitality and the drive to succeed.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "sound",
+        "smoke"
+      ],
+      "notes": "Contains sulfur and can tarnish when wet. Do not use in elixirs."
+    },
+    "image": {
+      "file": "pyrite.webp",
+      "credit": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyrite_-_Huanzala_mine,_Huallanca,_Bolognesi,_Ancash,_Peru.jpg"
+    }
+  },
+  {
+    "slug": "red-jasper",
+    "name": "Red Jasper",
+    "aliases": [],
+    "colors": [
+      "red"
+    ],
+    "chakras": [
+      "root",
+      "sacral"
+    ],
+    "zodiac": [
+      "aries",
+      "scorpio"
+    ],
+    "elements": [
+      "fire",
+      "earth"
+    ],
+    "intentions": [
+      "grounding",
+      "strength",
+      "motivation",
+      "energy",
+      "courage"
+    ],
+    "metaphysical": "Red Jasper is the stone of endurance. It is believed to ground energy and bring steady strength and stability in stressful times.",
+    "healing": "Traditionally used to boost stamina and support circulation. It is said to sustain motivation through long efforts.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "red-jasper.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jasper_(32132824820).jpg"
+    }
+  },
+  {
+    "slug": "rhodochrosite",
+    "name": "Rhodochrosite",
+    "aliases": [
+      "Inca Rose"
+    ],
+    "colors": [
+      "pink"
+    ],
+    "chakras": [
+      "heart",
+      "solar-plexus"
+    ],
+    "zodiac": [
+      "leo",
+      "scorpio"
+    ],
+    "elements": [
+      "fire",
+      "water"
+    ],
+    "intentions": [
+      "self-love",
+      "love",
+      "compassion",
+      "emotional healing",
+      "joy"
+    ],
+    "metaphysical": "Rhodochrosite is a gentle stone of love and self-worth. It is believed to open the heart to joy and help heal inner-child wounds.",
+    "healing": "Traditionally used to ease emotional pain and lift depression. It is said to encourage a positive, loving attitude.",
+    "care": {
+      "hardness": 4,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "selenite"
+      ],
+      "notes": "Soft and sensitive to heat; avoid soaking."
+    },
+    "image": {
+      "file": "rhodochrosite.webp",
+      "credit": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhodochrosite_on_Matrix_-_Peru.jpg"
+    }
+  },
+  {
+    "slug": "rhodonite",
+    "name": "Rhodonite",
+    "aliases": [],
+    "colors": [
+      "pink",
+      "black"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "taurus"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "forgiveness",
+      "emotional healing",
+      "compassion",
+      "love"
+    ],
+    "metaphysical": "Rhodonite is a stone of compassion and emotional balance. It is believed to heal emotional scars and encourage forgiveness of oneself and others.",
+    "healing": "Traditionally used to ease emotional shock and panic. It is said to support recovery from heartache and abusive patterns.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "rhodonite.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhodonite_Australie.jpg"
+    }
+  },
+  {
+    "slug": "rose-quartz",
+    "name": "Rose Quartz",
+    "aliases": [
+      "Pink Quartz",
+      "Love Stone"
+    ],
+    "colors": [
+      "pink"
+    ],
+    "chakras": [
+      "heart"
+    ],
+    "zodiac": [
+      "taurus",
+      "libra"
+    ],
+    "elements": [
+      "water",
+      "earth"
+    ],
+    "intentions": [
+      "love",
+      "self-love",
+      "emotional healing",
+      "compassion",
+      "forgiveness",
+      "harmony"
+    ],
+    "metaphysical": "Rose Quartz is the classic stone of unconditional love. It is believed to open the heart chakra and invite tenderness, compassion, and harmony into relationships, beginning with the relationship to oneself.",
+    "healing": "Traditionally used to comfort grief and heartbreak and to soften emotional wounds. It is said to calm stress held in the chest and encourage self-acceptance.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "running water",
+        "selenite"
+      ]
+    },
+    "image": {
+      "file": "rose-quartz.webp",
+      "credit": "கவிக்குமார் ப",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pink_quartz.jpg"
+    }
+  },
+  {
+    "slug": "ruby",
+    "name": "Ruby",
+    "aliases": [],
+    "colors": [
+      "red"
+    ],
+    "chakras": [
+      "root",
+      "heart"
+    ],
+    "zodiac": [
+      "leo",
+      "cancer",
+      "scorpio"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "love",
+      "energy",
+      "courage",
+      "motivation",
+      "strength"
+    ],
+    "metaphysical": "Ruby is the king of gems and a stone of passion and vitality. It is believed to awaken the heart and inspire bold, loving action.",
+    "healing": "Traditionally used to energize the body and support circulation. It is said to overcome exhaustion and lethargy.",
+    "care": {
+      "hardness": 9,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "ruby.webp",
+      "credit": "Robert M. Lavinsky",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corundum-215330.jpg"
+    }
+  },
+  {
+    "slug": "rutilated-quartz",
+    "name": "Rutilated Quartz",
+    "aliases": [
+      "Angel Hair Quartz"
+    ],
+    "colors": [
+      "gold",
+      "clear"
+    ],
+    "chakras": [
+      "solar-plexus",
+      "crown"
+    ],
+    "zodiac": [
+      "taurus",
+      "gemini"
+    ],
+    "elements": [
+      "fire",
+      "air"
+    ],
+    "intentions": [
+      "energy",
+      "manifestation",
+      "clarity",
+      "motivation"
+    ],
+    "metaphysical": "Rutilated Quartz contains golden rutile needles and is believed to amplify energy and intention. It is a powerful manifestation stone.",
+    "healing": "Traditionally used to lift fatigue and depression. It is said to boost focus and willpower.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "rutilated-quartz.webp",
+      "credit": "Didier Descouens",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz_a_rutile.jpg"
+    }
+  },
+  {
+    "slug": "selenite",
+    "name": "Selenite",
+    "aliases": [
+      "Satin Spar"
+    ],
+    "colors": [
+      "white",
+      "clear"
+    ],
+    "chakras": [
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "taurus",
+      "cancer"
+    ],
+    "elements": [
+      "air"
+    ],
+    "intentions": [
+      "purification",
+      "clarity",
+      "meditation",
+      "spiritual growth",
+      "calm"
+    ],
+    "metaphysical": "Selenite is a stone of pure light, named after the Greek moon goddess Selene. It is believed to cleanse and recharge other crystals and to connect the mind with higher guidance.",
+    "healing": "Traditionally used to clear stagnant energy and bring a sense of peace and mental clarity. It is said to calm the mind before meditation or sleep.",
+    "care": {
+      "hardness": 2,
+      "waterSafe": false,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke"
+      ],
+      "notes": "Very soft and water-soluble. Never soak or rinse it; dust with a dry cloth."
+    },
+    "image": {
+      "file": "selenite.webp",
+      "credit": "Géry PARENT",
+      "license": "CC0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gypsum_var._selenite.jpg"
+    }
+  },
+  {
+    "slug": "shungite",
+    "name": "Shungite",
+    "aliases": [],
+    "colors": [
+      "black"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "capricorn"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "protection",
+      "purification",
+      "detox",
+      "grounding"
+    ],
+    "metaphysical": "Shungite is an ancient carbon-rich stone found mainly in Russia. It is believed to purify energy and protect against electromagnetic stress.",
+    "healing": "Traditionally used to purify water and support detoxification. It is said to ground and neutralize negative energy.",
+    "care": {
+      "hardness": 3.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "earth"
+      ],
+      "notes": "Sheds black carbon dust. Only use verified, high-grade shungite for water infusions."
+    },
+    "image": {
+      "file": "shungite.webp",
+      "credit": "vaton3",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shungite.jpg"
+    }
+  },
+  {
+    "slug": "smoky-quartz",
+    "name": "Smoky Quartz",
+    "aliases": [],
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "capricorn",
+      "scorpio",
+      "sagittarius"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "grounding",
+      "protection",
+      "detox",
+      "stress relief",
+      "anxiety"
+    ],
+    "metaphysical": "Smoky Quartz is a deeply grounding stone that is believed to transmute negative energy into positive. It connects the spirit to the earth while keeping the mind clear.",
+    "healing": "Traditionally used to relieve stress, fear, and anxiety. It is said to help release tension and detoxify the body and emotions.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "smoky-quartz.webp",
+      "credit": "Dario Crespi",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quarzo_morione.jpg"
+    }
+  },
+  {
+    "slug": "snowflake-obsidian",
+    "name": "Snowflake Obsidian",
+    "aliases": [],
+    "colors": [
+      "black",
+      "white"
+    ],
+    "chakras": [
+      "root"
+    ],
+    "zodiac": [
+      "virgo",
+      "capricorn"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "balance",
+      "grief",
+      "patience",
+      "purification"
+    ],
+    "metaphysical": "Snowflake Obsidian is a gentler form of obsidian scattered with white crystals. It is believed to bring balance by revealing both light and shadow within.",
+    "healing": "Traditionally used to support people through grief and loss and to encourage patience. It is said to calm the mind and help release old patterns.",
+    "care": {
+      "hardness": 5.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "snowflake-obsidian.webp",
+      "credit": "DaveC1",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowflake_obsidian_-_Utah.jpg"
+    }
+  },
+  {
+    "slug": "sodalite",
+    "name": "Sodalite",
+    "aliases": [],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "chakras": [
+      "throat",
+      "third-eye"
+    ],
+    "zodiac": [
+      "sagittarius"
+    ],
+    "elements": [
+      "water"
+    ],
+    "intentions": [
+      "truth",
+      "communication",
+      "calm",
+      "clarity",
+      "wisdom"
+    ],
+    "metaphysical": "Sodalite is a stone of logic, truth, and rational thought. It is believed to unite intuition with intellect and encourage honest communication.",
+    "healing": "Traditionally used to calm panic and bring emotional balance. It is said to clear mental confusion and support self-esteem.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "sodalite.webp",
+      "credit": "Shafeekchhatarpur",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sodalite_Stone.jpg"
+    }
+  },
+  {
+    "slug": "spirit-quartz",
+    "name": "Spirit Quartz",
+    "aliases": [
+      "Cactus Quartz",
+      "Fairy Quartz"
+    ],
+    "colors": [
+      "purple",
+      "white"
+    ],
+    "chakras": [
+      "crown",
+      "third-eye"
+    ],
+    "zodiac": [
+      "virgo",
+      "sagittarius"
+    ],
+    "elements": [
+      "spirit"
+    ],
+    "intentions": [
+      "spiritual growth",
+      "harmony",
+      "meditation",
+      "friendship"
+    ],
+    "metaphysical": "Spirit Quartz is covered in tiny crystal points and is believed to radiate energy in all directions. It promotes harmony within groups.",
+    "healing": "Traditionally used to bring calm and connection to others. It is said to support meditation and spiritual growth.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "spirit-quartz.webp",
+      "credit": "Robert M. Lavinsky",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quartz-247662.jpg"
+    }
+  },
+  {
+    "slug": "sunstone",
+    "name": "Sunstone",
+    "aliases": [],
+    "colors": [
+      "orange",
+      "peach"
+    ],
+    "chakras": [
+      "sacral",
+      "solar-plexus"
+    ],
+    "zodiac": [
+      "leo",
+      "libra"
+    ],
+    "elements": [
+      "fire"
+    ],
+    "intentions": [
+      "joy",
+      "energy",
+      "confidence",
+      "motivation",
+      "success"
+    ],
+    "metaphysical": "Sunstone holds the light of the sun and is a stone of leadership and joy. It is believed to boost optimism and personal power.",
+    "healing": "Traditionally used to lift seasonal low moods and restore enthusiasm. It is said to energize the body and ease fatigue.",
+    "care": {
+      "hardness": 6,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "sunstone.webp",
+      "credit": "Ra'ike (see also: de:Benutzer:Ra'ike)",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oligoclase-Sunstone_from_India2.jpg"
+    }
+  },
+  {
+    "slug": "tigers-eye",
+    "name": "Tiger's Eye",
+    "aliases": [
+      "Tiger Eye",
+      "Tigers Eye"
+    ],
+    "colors": [
+      "gold",
+      "brown"
+    ],
+    "chakras": [
+      "solar-plexus",
+      "sacral",
+      "root"
+    ],
+    "zodiac": [
+      "leo",
+      "capricorn"
+    ],
+    "elements": [
+      "fire",
+      "earth"
+    ],
+    "intentions": [
+      "confidence",
+      "courage",
+      "protection",
+      "luck",
+      "focus",
+      "success"
+    ],
+    "metaphysical": "Tiger's Eye is a stone of courage, willpower, and good fortune. It is believed to combine the energy of the sun and earth, helping one act with clarity and confidence.",
+    "healing": "Traditionally used to overcome fear and self-doubt and to steady scattered thoughts. It is said to support motivation and decisive action.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "tigers-eye.webp",
+      "credit": "“Jon Zander (Digon3)”",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polished_Tiger%27s_eye_Macro.JPG"
+    }
+  },
+  {
+    "slug": "tourmalinated-quartz",
+    "name": "Tourmalinated Quartz",
+    "aliases": [],
+    "colors": [
+      "clear",
+      "black"
+    ],
+    "chakras": [
+      "root",
+      "crown"
+    ],
+    "zodiac": [
+      "libra"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "protection",
+      "grounding",
+      "balance",
+      "purification"
+    ],
+    "metaphysical": "Tourmalinated Quartz combines black tourmaline's protection with quartz's clarity. It is believed to dissolve negative patterns.",
+    "healing": "Traditionally used to ground and balance energy. It is said to clear stress and harmonize the body.",
+    "care": {
+      "hardness": 7,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "moonlight",
+        "running water",
+        "sound"
+      ]
+    },
+    "image": {
+      "file": "tourmalinated-quartz.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tourmalinated_quartz_5.jpg"
+    }
+  },
+  {
+    "slug": "turquoise",
+    "name": "Turquoise",
+    "aliases": [],
+    "colors": [
+      "blue",
+      "teal"
+    ],
+    "chakras": [
+      "throat"
+    ],
+    "zodiac": [
+      "sagittarius",
+      "pisces",
+      "scorpio"
+    ],
+    "elements": [
+      "earth",
+      "air"
+    ],
+    "intentions": [
+      "protection",
+      "healing",
+      "communication",
+      "wisdom",
+      "luck"
+    ],
+    "metaphysical": "Turquoise is one of the oldest protection amulets, revered by many cultures. It is believed to bring good fortune and connect heaven and earth.",
+    "healing": "Traditionally used as a master healer for the whole body. It is said to support the immune system and ease exhaustion.",
+    "care": {
+      "hardness": 5.5,
+      "waterSafe": false,
+      "sunSafe": false,
+      "cleansing": [
+        "moonlight",
+        "sound",
+        "smoke"
+      ],
+      "notes": "Porous; avoid water, oils, and lotions."
+    },
+    "image": {
+      "file": "turquoise.webp",
+      "credit": "Unknown",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turquoise_with_quartz.jpg"
+    }
+  },
+  {
+    "slug": "unakite",
+    "name": "Unakite",
+    "aliases": [
+      "Unakite Jasper"
+    ],
+    "colors": [
+      "green",
+      "pink"
+    ],
+    "chakras": [
+      "heart",
+      "third-eye"
+    ],
+    "zodiac": [
+      "scorpio"
+    ],
+    "elements": [
+      "earth"
+    ],
+    "intentions": [
+      "balance",
+      "emotional healing",
+      "patience",
+      "grief"
+    ],
+    "metaphysical": "Unakite is a stone of vision that unites the heart and mind. It is believed to balance emotional and spiritual bodies.",
+    "healing": "Traditionally used to support recovery from grief and emotional injury. It is said to encourage patience during healing.",
+    "care": {
+      "hardness": 6.5,
+      "waterSafe": true,
+      "sunSafe": true,
+      "cleansing": [
+        "sunlight",
+        "running water",
+        "sound",
+        "earth"
+      ]
+    },
+    "image": {
+      "file": "unakite.webp",
+      "credit": "James St. John",
+      "license": "CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unakite_(epidotic_granite).jpg"
+    }
+  }
+]
